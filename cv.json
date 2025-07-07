@@ -1,0 +1,823 @@
+{
+  "basics": {
+    "name": "Amine Bensalah",
+    "label": "Senior iOS/macOS/Backend Swift Developer",
+    "image": "./me_avatar.jpg",
+    "url": "https://aminebensalah.com",
+    "phone": "",
+    "email": "",
+    "summary": "Senior iOS/macOS Swift Developer with extensive experience in building high-quality applications. Skilled in Swift, UIKit, SwiftUI, and Xcode, with a passion for delivering seamless user experiences. Currently seeking challenging opportunities to leverage my expertise in iOS/macOS development and contribute to innovative projects.",
+    "theme": "purple",
+    "location": {
+      "address": "",
+      "postalCode": "92000",
+      "city": "Puteaux",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Amine Bensalah",
+        "url": "https://www.linkedin.com/in/amine-bensalah-intech-consulting"
+      },
+      {
+        "network": "GitHub",
+        "username": "amine2233",
+        "url": "https://github.com/amine2233"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Netatmo",
+      "position": "Senior iOS/Swift Developer",
+      "location_type": "Hybrid",
+      "location": "Boulogne, France",
+      "url": "https://www.netatmo.com/fr-fr",
+      "startDate": "2024-06-03",
+      "endDate": null,
+      "summary": "Development and maintenance of Netatmo's Security application.",
+      "highlights": [],
+      "responsibilities": [
+        "Development of the Security application using Swift/SwiftUI/Flux architecture",
+        "Development of additional packages for the app & the company",
+        "Development of internal tools",
+        "Collaboration with PMs and Designers on product development",
+        "Documentation setup for packages using Swift-CLI/DocC",
+        "Architecture of installation flows"
+      ],
+      "achievements": [
+        "Development of new features & bug fixes",
+        "Implementation of unit tests and UI tests",
+        "Setup of technical documentation"
+      ],
+      "skills": [
+        "Flux Architecture",
+        "Swift",
+        "SwiftUI",
+        "UIKit",
+        "Combine",
+        "GitLab",
+        "Swift Package Manager",
+        "Module (framework)",
+        "Jira",
+        "Confluence",
+        "Git",
+        "Docc",
+        "TestsUI",
+        "UnitTest",
+        "CI/CD using GitLab-Ci"
+      ]
+    },
+    {
+      "name": "La Francaise Des Jeux",
+      "position": "Freelance Senior iOS Architect",
+      "location_type": "Hybrid",
+      "location": "Paris, France",
+      "url": "https://www.enligne.parionssport.fdj.fr",
+      "startDate": "2023-01-02",
+      "endDate": "2024-05-31",
+      "summary": "Development and maintenance of the Parions Sport En Ligne & Zebet applications.",
+      "highlights": [
+        "Rapid creation of the Zebet app using 97% of the Parions Sport En Ligne codebase"
+      ],
+      "responsibilities": [
+        "Contributed to the development of the “Parions Sport En Ligne” & “ZEbet” applications",
+        "Updated the app using Swift & Kotlin (KMM shared codebase between iOS & Android)",
+        "Developed new features using TCA (Redux), SwiftUI, Clean Architecture & modularization",
+        "Maintained the app, fixed bugs, added unit tests, and performed refactoring",
+        "Created new modules using Swift Package Manager to migrate away from the shared KMM framework",
+        "Set up technical documentation in Markdown & Docc (Code style, complex feature explanations, project onboarding, technical design with UML & Miro diagrams, ZEbet config, asset usage, CocoaPods to SPM migration, SwiftFormat)",
+        "Led technical design workshops to support and document feature updates or creation (Search bar, Modules, Scoreboard, My History)",
+        "Reviewed code via GitLab merge requests",
+        "Implemented Xcode-Gen to generate the xcodeproj and share code across ZEbet apps",
+        "Participated in the mobile team’s Agile workflow",
+        "Used Instruments to analyze memory, battery usage & network requests"
+      ],
+      "achievements": [
+        "Implemented Xcode-Gen to build the Zebet clone app",
+        "Introduced Clean Architecture",
+        "Created a modular architecture",
+        "Applied TCA to micro-features"
+      ],
+      "skills": [
+        "Swift",
+        "Kotlin",
+        "TCA",
+        "Git",
+        "GitLab",
+        "Clean Architecture",
+        "SwiftUI",
+        "Swift Package Manager",
+        "Markdown",
+        "Docc",
+        "UML",
+        "Miro",
+        "SwiftFormat",
+        "Xcode-Gen",
+        "Agile",
+        "Jira",
+        "Instrument",
+        "Bitrise",
+        "CocoaPods",
+        "UnitTest"
+      ]
+    },
+    {
+      "name": "Le Monde Groupe",
+      "position": "Senior iOS Developer (Swift & Objective-C++)",
+      "location_type": "Remote",
+      "location": "Paris, France",
+      "url": "https://www.lemonde.fr",
+      "startDate": "2022-05-02",
+      "endDate": "2022-12-31",
+      "summary": "Development and maintenance of the LeMonde app & creation of the HuffPost app.",
+      "highlights": [
+        "Implementation of an MVVM architecture",
+        "Added unit testing"
+      ],
+      "responsibilities": [
+        "Contributed to the development of Le Monde Group apps (Le Monde, La Matinale, Télérama, Courrier International, and HuffPost)",
+        "Created the *HuffPost* app",
+        "Developed new features, maintained apps, fixed bugs, and added unit tests",
+        "Built shared modules used across the group's applications",
+        "Reviewed code via GitHub pull requests",
+        "Participated in the mobile team’s Agile process"
+      ],
+      "skills": [
+        "CocoaPods",
+        "Swift",
+        "Objective-C",
+        "UIKit",
+        "UnitTest",
+        "GIT",
+        "MVC",
+        "MVVM",
+        "GitHub",
+        "Module (framework)"
+      ]
+    },
+    {
+      "name": "Deezer Inc",
+      "position": "Freelance Senior iOS Developer (Swift, C & Objective-C++)",
+      "location_type": "Hybrid",
+      "location": "Paris, France",
+      "url": "https://www.deezer.com/fr/",
+      "startDate": "2021-03-01",
+      "endDate": "2022-04-30",
+      "summary": "Maintenance and development of the Deezer 360 app & Google Cast integration.",
+      "highlights": [
+        "Implemented Clean Architecture",
+        "Used SwiftUI & Combine",
+        "Implemented unit tests & UI tests"
+      ],
+      "responsibilities": [
+        "Integrated Google Cast into the Deezer 360 app (developed an abstraction layer with unit tests & UI tests)",
+        "Updated the Deezer Player with the SONY 360 SDK (C & Obj-C++), including unit test implementation",
+        "Contributed to the development of internal/external Deezer SDKs, implemented unit tests, heavy usage of SPM (Swift Package Manager)",
+        "Created a Sample Application to implement SDKs using SwiftUI, Combine, Dependency Injection & Clean Architecture",
+        "Reviewed code via GitHub pull requests",
+        "Worked in an international team with communication, meetings, and documentation in English"
+      ],
+      "skills": [
+        "Cartage",
+        "Swift Package Manager",
+        "Swift",
+        "SwiftUI",
+        "Combine",
+        "C Language",
+        "UnitTests",
+        "UITests",
+        "GIT-Flow",
+        "Clean Architecture",
+        "GitHub",
+        "Script Bash",
+        "Dependency Injection",
+        "Module (framework)",
+        "Objective-C++ Language"
+      ]
+    },
+    {
+      "name": "Qonto",
+      "position": "Senior iOS Developer/Architect (Swift and Objective-C)",
+      "location_type": "Hybrid",
+      "location": "Paris, France",
+      "url": "https://qonto.com/fr",
+      "startDate": "2020-09-01",
+      "endDate": "2021-03-31",
+      "summary": "Maintenance and development of the Qonto app.",
+      "highlights": [
+        "Implemented Clean Architecture",
+        "Created independent & reusable modules",
+        "CI/CD optimization"
+      ],
+      "responsibilities": [
+        "Developed new features, maintained the app, applied MVP-C Clean Architecture, fixed bugs, added unit tests and UI tests",
+        "Set up tooling: XcodeGen, Fastlane Match, Test Plans, SwiftFormat, Git Hooks, Merge Request Templates, automated changelogs, and updated CD automation via GitLab-CI",
+        "Developed iOS 14 widgets with configuration Intent",
+        "Code review through GitLab MRs",
+        "Worked on a major project within an international team, with communication, meetings, and documentation in English"
+      ],
+      "skills": [
+        "Swift",
+        "Objective-C",
+        "SwiftUI",
+        "UIKit",
+        "Widget",
+        "Combine",
+        "UnitTest",
+        "UITests",
+        "GIT-Flow",
+        "CocoaPods",
+        "MVP-C",
+        "GitLab",
+        "Notion",
+        "Dependency Injection",
+        "SwiftyMocky",
+        "Sourcery",
+        "Module (framework)",
+        "CI/CD using GitLab-Ci"
+      ]
+    },
+    {
+      "name": "Kolibree-Colgate",
+      "position": "Senior iOS Developer (Swift and Objective-C)",
+      "location_type": "Remote",
+      "location": "Paris, France",
+      "url": "https://www.kolibree.com/fr",
+      "startDate": "2020-04-01",
+      "endDate": "2020-08-31",
+      "summary": "Maintenance and development of the Colgate app for connected electric toothbrushes.",
+      "highlights": [
+        "Created the Apple Watch app from scratch.",
+        "Implemented unit tests for Shopify API usage."
+      ],
+      "responsibilities": [
+        "Developed new features, maintained the app, applied MVVM architecture with RxSwift, fixed bugs, added unit tests",
+        "Developed a fully independent Apple Watch app using SwiftUI, Combine & Redux",
+        "Built modular architecture to share code between iPhone and Apple Watch",
+        "Code review via GitHub PRs",
+        "Contributed to a major international project with team communication, meetings, and documentation in English. I learned a lot about development and teamwork. We built the Apple Watch app in one month."
+      ],
+      "skills": [
+        "Xcode-Gen",
+        "Swift",
+        "SwiftUI",
+        "UIKit",
+        "Combine",
+        "Objective-C Language",
+        "UnitTest",
+        "UITests",
+        "GIT-Trunk",
+        "Carthage",
+        "MVVM",
+        "GitHub",
+        "Jira",
+        "RxSwift",
+        "RxDataSource",
+        "RxFeedback",
+        "Dependency Injection",
+        "Modular App",
+        "BLE",
+        "Apple Sign In",
+        "GraphQL",
+        "REST API"
+      ]
+    },
+    {
+      "name": "VESTIAIRE COLLECTIVE",
+      "position": "Senior iOS Developer (Swift and Objective-C)",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url": "https://fr.vestiairecollective.com",
+      "startDate": "2019-10-01",
+      "endDate": "2020-03-31",
+      "summary": "Maintenance and development of the Vestiaire Collective app.",
+      "highlights": ["Implemented a new NewsFeed feature"],
+      "responsibilities": [
+        "Developed a new feature (NewsFeed) using MVVM with 96% test coverage, app maintenance, updates, bug fixes, and retain cycle resolution.",
+        "Implemented best practices (coding rules with swift-lint, formatting rules with swift-format, code documentation, maintaining a GitLab wiki).",
+        "Code review via GitLab merge requests, setup of Danger to enforce rules before merging.",
+        "Updated CI/CD pipeline using Bitrise and Fastlane.",
+        "Contributed to an outstanding project with an international team, with all communication, meetings, and documentation in English."
+      ],
+      "skills": [
+        "Swift",
+        "Objective-C Language",
+        "UnitTest",
+        "UITests",
+        "GIT-Flow",
+        "CocoaPods",
+        "MVVM",
+        "Bitrise",
+        "GitLab",
+        "CI/CD using GitLab-Ci",
+        "Jira",
+        "RxSwift",
+        "RxDataSource",
+        "RxFeedback",
+        "Redux",
+        "Dependency Injection",
+        "Module (framework)",
+        "Apple Signin",
+        "ApplePay"
+      ]
+    },
+    {
+      "name": "PSA",
+      "position": "iOS Technical Lead (Swift and Objective-C)",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url": "https://www.dsautomobiles.fr/votreds/votreds-et-vous/myds-app.html",
+      "startDate": "2019-07-01",
+      "endDate": "2019-09-30",
+      "summary": "Implemented a car unlocking and start feature via the MyDS mobile app.",
+      "highlights": [
+        "Implemented Clean Architecture",
+        "Implemented MVVM architecture",
+        "Implemented CI/CD",
+        "Implemented unit testing",
+        "Created technical contribution documentation"
+      ],
+      "responsibilities": [
+        "Led a team of iOS developers to help them improve their skills.",
+        "Established best practices to streamline developer workflow (coding standards, formatting rules, code documentation, maintaining a wiki).",
+        "Code review via GitHub PRs, pair programming, established Git rules to facilitate changelog extraction.",
+        "Set up Continuous Integration and Continuous Deployment with TeamCity.",
+        "Developed the iOS application (Swift and Objective-C), maintained and debugged the app, added new features, and optimized performance.",
+        "Refactored app architecture, introduced Clean Architecture with MVVM, RxSwift & PromiseKit, Dependency Injection, Core Data caching, unit tests, and functional testing."
+      ],
+      "skills": [
+        "Swift",
+        "Objective-C Language",
+        "GIT-Flow",
+        "CocoaPods",
+        "MVVM",
+        "TeamCity",
+        "GitLab",
+        "Jira",
+        "BLE",
+        "RxSwift",
+        "PromiseKit",
+        "Dependency Injection"
+      ]
+    },
+    {
+      "name": "Allianz France",
+      "position": "Senior iOS/Swift Developer/Architect",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url": "https://www.allianz.fr",
+      "startDate": "2018-06-01",
+      "endDate": "2019-06-30",
+      "summary": "Maintenance and development of the My Allianz Mobile app (native).",
+      "highlights": [
+        "Implemented deeplinks",
+        "Set up a robust CI/CD pipeline",
+        "Added unit tests"
+      ],
+      "responsibilities": [
+        "iOS and watchOS app development using Swift & Objective-C, maintenance and bug fixing, implementation of new features, app performance optimization.",
+        "Established a modular architecture via CocoaPods.",
+        "Implemented Clean Architecture (MVP & MVVM), added unit tests.",
+        "Updated CI/CD server using Jenkins, Fastlane, and Bitbucket.",
+        "Designed a Deeplink strategy and caching mechanism using Core Data (iOS).",
+        "Performed a full audit of the mobile app (security testing, automated deployment, unit tests, best practices, Clean Architecture, memory leak detection, etc.)."
+      ],
+      "skills": [
+        "Swift",
+        "Objective-C Language",
+        "GIT-Flow",
+        "CocoaPods",
+        "REST API",
+        "MVP",
+        "MVVM",
+        "Deeplink",
+        "Jenkins",
+        "Fastlane",
+        "Fabric",
+        "Bitbucket",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Rakuten (Price-Minister)",
+      "position": "Senior iOS/Swift Developer/Architect",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url": "https://fr.shopping.rakuten.com",
+      "startDate": "2016-01-02",
+      "endDate": "2018-05-31",
+      "summary": "Maintenance and development of the Rakuten app.",
+      "highlights": [
+        "Implemented MVVM architecture with RxSwift",
+        "Set up modular architecture using frameworks + VIPER",
+        "Developed the product page",
+        "Migrated to Swift 3",
+        "Migrated from Objective-C to Swift"
+      ],
+      "responsibilities": [
+        "Developed PriceMinister e-commerce iOS app (iPhone & iPad).",
+        "Created API signatures in collaboration with other teams to implement client/server connections, fully redesigned client/server communication in Swift & Alamofire.",
+        "Redesigned the visual architecture using TabBar to add new features and increase user session time.",
+        "Created reusable UI components to establish a unified and easily modifiable design system.",
+        "Implemented new architecture (MVVM & VIPER & Coordinator Pattern) to enable unit testing, added SwiftLint for clean code style and easier developer onboarding.",
+        "Performed code reviews via Bitbucket, automated app deployment on the App Store using Fastlane, and used Fabric for Beta versions.",
+        "Led daily meetings, organized demos and retrospectives."
+      ],
+      "skills": [
+        "Objective-C Language",
+        "Swift Language",
+        "BASH",
+        "GIT-Flow",
+        "JIRA",
+        "REST API",
+        "MVVM",
+        "VIPER Architecture",
+        "Coordinator",
+        "Deeplink",
+        "Alamofire + Codable",
+        "SwiftLint",
+        "Jenkins",
+        "Fastlane",
+        "Fabric",
+        "Bitbucket",
+        "Jira",
+        "CI/CD using Jenkins",
+        "UnitTest",
+        "UITests"
+      ]
+    },
+    {
+      "name": "Engie (AKKA Technologies)",
+      "position": "Mid-level Mobile Developer",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url": "",
+      "startDate": "2015-01-02",
+      "endDate": "2015-12-31",
+      "summary": "Built from scratch the connected thermostat app for Engie.",
+      "highlights": [
+        "Created a design system",
+        "Developed the app using reactive programming",
+        "Implemented CI/CD pipeline"
+      ],
+      "responsibilities": [
+        "Developed iOS app (iPhone & iPad) called HOMNI.",
+        "Implemented pairing features with connected BLE devices.",
+        "Implemented client/server layer using AFNetworking.",
+        "Created fully native UI components (Calendar, Graphs, TabBar, remote thermostat control).",
+        "Managed mobile project with Agile methodology, coordinated with project managers from various teams."
+      ],
+      "skills": [
+        "Objective-C Language",
+        "Swift Language",
+        "BASH",
+        "GIT-Flow",
+        "Cocoapods",
+        "Trello",
+        "REST API",
+        "Netatmo SDK",
+        "BLE",
+        "AFNetworking",
+        "Swagger",
+        "Reactive Programming"
+      ]
+    },
+    {
+      "name": "Panda Service (DigiSchool)",
+      "position": "Senior iOS/Swift Developer/Architect",
+      "location_type": "On site",
+      "location": "Lyon, France",
+      "url": "https://www.digischool.fr",
+      "startDate": "2014-06-01",
+      "endDate": "2014-12-31",
+      "summary": "Development and maintenance of several DigiSchool applications.",
+      "highlights": [
+        "Built applications from scratch",
+        "Maintained existing applications"
+      ],
+      "responsibilities": [
+        "Developed iOS applications for iPhone & iPad.",
+        "Encapsulated web applications for Apple Store integration.",
+        "Updated iOS applications (Wifi Easy Connect, Echo-Live, etc.).",
+        "Managed mobile projects using Agile methodology.",
+        "Collaborated with technical leads and project managers to track project progress."
+      ],
+      "skills": [
+        "Objective-C Language",
+        "C Language",
+        "BASH",
+        "GIT-Flow",
+        "Cocoapods",
+        "In-App Purchase",
+        "REST API",
+        "Carthage"
+      ]
+    },
+    {
+      "name": "SYNTHES’3D",
+      "position": "Junior iOS/Objective-C Web & Backend/PHP/Java Developer",
+      "location_type": "On site",
+      "location": "Aix En Provence, France",
+      "url": "https://www.synthes3d.com/en/",
+      "startDate": "2011-01-02",
+      "endDate": "2014-05-31",
+      "summary": "Built several mobile and web applications from scratch.",
+      "highlights": [
+        "Set up backend for authentication and mobile app security",
+        "Created 3D applications from scratch to visualize products",
+        "Implemented Agile workflow",
+        "Implemented CI/CD",
+        "Designed REST APIs",
+        "Mobile app architecture design for iOS (iPad)"
+      ],
+      "responsibilities": [
+        "Analyzed client needs and wrote functional and technical specifications.",
+        "Developed iOS applications for iPhone and iPad.",
+        "Developed web applications in PHP using Symfony and CakePHP frameworks.",
+        "Developed REST web services using PHP and J2EE.",
+        "Designed databases with MySQL and SQLite.",
+        "Managed mobile and web projects using Agile, collaborating with clients and developers."
+      ],
+      "skills": [
+        "Objective-C Language",
+        "PHP Language",
+        "Symfony framework",
+        "CakePHP framework",
+        "C Language",
+        "Java Language",
+        "JEE 6",
+        "BASH",
+        "MySQL",
+        "PostgreSQL",
+        "JSTL",
+        "JSP",
+        "CSS",
+        "JavaScript Language",
+        "GIT",
+        "Ubuntu Server",
+        "Debian Server",
+        "Android",
+        "REST API",
+        "In-App Purchase"
+      ]
+    },
+    {
+      "name": "MIYOWA",
+      "position": "Junior iOS/Objective-C Backend/PHP Developer",
+      "location_type": "On site",
+      "location": "Marseille, France",
+      "url": "https://www.linkedin.com/company/miyowa/",
+      "startDate": "2010-01-01",
+      "endDate": "2010-12-31",
+      "summary": "Development and maintenance of iOS mobile applications with backend.",
+      "highlights": [
+        "Developed backend in PHP for mobile applications",
+        "Created mobile applications",
+        "Maintained iOS mobile application (Instant Messaging Aggregator)"
+      ],
+      "responsibilities": [
+        "Wrote functional and technical specifications.",
+        "Designed application architecture.",
+        "Developed mobile applications for iOS.",
+        "Integrated client-server communication.",
+        "Managed provisioning and administration in Apple Developer portal."
+      ],
+      "skills": [
+        "Objective-C 2.0 Language",
+        "Mercurial",
+        "Cocoa (CoreData)",
+        "REST API + JSON",
+        "PHP Language",
+        "Symfony framework",
+        "In-App Purchase"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Aix-Marseille University",
+      "url": "https://stateuniversity.edu",
+      "area": "Software Engineering",
+      "studyType": "Master 2",
+      "startDate": "2009-09-01",
+      "endDate": "2010-05-31",
+      "courses": ["Advanced Software Development Part 2"]
+    },
+    {
+      "institution": "Evry Val d’Essonne University",
+      "url": "https://techinstitute.edu",
+      "area": "Software Engineering",
+      "studyType": "Master 1",
+      "startDate": "2008-09-01",
+      "endDate": "2009-05-31",
+      "courses": [
+        "Advanced Software Development Part 1",
+        "Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "ISTIA D'Angers University",
+      "url": "https://citycollege.edu",
+      "area": "Industrial Software Engineering",
+      "studyType": "License",
+      "startDate": "2007-09-01",
+      "endDate": "2008-05-31",
+      "courses": [
+        "Software Development",
+        "Modeling using UML",
+        "Database Management Systems",
+        "Robotics and Automation Systems"
+      ]
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": ["Design", "UI"]
+    },
+    {
+      "name": "Sketch",
+      "level": "Expert",
+      "keywords": ["Design", "UI"]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Expert",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "CI/CD",
+        "Pages",
+        "Docker Registery",
+        "PHP Composer Deploiment",
+        "Docker Deployment"
+      ]
+    },
+    {
+      "name": "Swift",
+      "level": "Expert",
+      "keywords": [
+        "iOS Development",
+        "macOS Development",
+        "Command Line Tools",
+        "Backend using Vapor, Hummingbird and Lambda",
+        "Swift Package Manager"
+      ]
+    },
+    {
+      "name": "Objective-C",
+      "level": "Expert",
+      "keywords": [
+        "iOS Development",
+        "macOS Development",
+        "CocoaPods",
+        "Carthage"
+      ]
+    },
+    {
+      "name": "C Language",
+      "level": "Intermediate",
+      "keywords": ["SDK Development", "Embedded Systems"]
+    },
+    {
+      "name": "Postgresql",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Expert",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Expert",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git",
+        "CI/CD",
+        "Pages",
+        "Docker Registery",
+        "Docker Deployment"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Expert",
+      "keywords": [
+        "PHP Composer Deploiment",
+        "SlimPHP Framework",
+        "Symfony PHP Framework from 1.4 to 7.4",
+        "CakePHP",
+        "Building websites without a framework",
+        "Command Line Tools"
+      ]
+    },
+    {
+      "name": "Slim PHP",
+      "level": "Expert",
+      "keywords": ["micro-framework", "API", "Backend", "Auth"]
+    },
+    {
+      "name": "Symfony PHP",
+      "level": "Expert",
+      "keywords": [
+        "micro-framework",
+        "API",
+        "Backend",
+        "Frontend",
+        "Auth",
+        "RabbitMQ",
+        "ElasticSearch"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "iOS Development",
+        "macOS Development",
+        "Swift",
+        "Reactive Programming",
+        "Web Development"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Markpages",
+      "isActive": true,
+      "description": "A personal bookmarks for saving all your links.",
+      "highlights": [
+        "Built with Swift/SwiftUI and Xcode-Gen using CoreData and CloudKit",
+        "macOS and iOS app's with Safari and Share extensions"
+      ],
+      "url": "https://markpages.app"
+    },
+    {
+      "name": "Pass for MacOS",
+      "isActive": true,
+      "description": "A password manager for MacOS. using pass cli, gpg and git for sync.",
+      "highlights": [
+        "Built with Swift/SwiftUI using Tuist",
+        "macOS app with Safari extensions"
+      ],
+      "url": "https://github.com/amine2233/password-store-app/wiki",
+      "github": "https://github.com/amine2233/password-store-app"
+    },
+    {
+      "name": "RTM transport",
+      "isActive": false,
+      "description": "A native mobile app to plan your transport journey.",
+      "highlights": [
+        "Built with Objective-C/UIKit for iOS app",
+        "Built with Java/Android SDK for Android app"
+      ]
+    },
+    {
+      "name": "Algerian CodePostal",
+      "isActive": false,
+      "description": "A native mobile app to see all postal code and city information for Algerian cities.",
+      "highlights": ["Built with Objective-C/UIKit for iOS app"]
+    },
+    {
+      "name": "DependencyInjection",
+      "isActive": true,
+      "description": "A small and tested SPM package work on macOS and Linux to manage all the dependenies inside the app.",
+      "highlights": ["Built with swift"],
+      "github": "https://github.com/amine2233/DependencyInjection"
+    },
+    {
+      "name": "SPM Packages",
+      "isActive": true,
+      "description": "A small and tested SPM packages work on macOS and Linux to reuse over many professional and personal app and api project.",
+      "highlights": [
+        "Built with swift",
+        "Build with PHP and deployed using Composer"
+      ],
+      "github": "https://github.com/amine2233"
+    }
+  ]
+}
