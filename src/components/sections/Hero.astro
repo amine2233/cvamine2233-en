@@ -7,6 +7,8 @@ import X from "@/svg-icons/X.astro";
 import LinkedIn from "@/svg-icons/LinkedIn.astro";
 import GitHub from "@/svg-icons/GitHub.astro";
 import WorldMap from "@/svg-icons/WorldMap.astro";
+import English from "@/svg-icons/English.astro";
+import French from "@/svg-icons/French.astro";
 import type { SocialIcon } from "@/types";
 
 const { name, label, image, location, profiles, phone, email } = basics;
@@ -16,6 +18,8 @@ const SOCIAL_ICONS: SocialIcon = {
 	GitHub,
 	LinkedIn,
 	X,
+	English,
+	French
 };
 
 const linkedInfo = profiles.find(({ network }) => network === "LinkedIn");
